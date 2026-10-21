@@ -1,4 +1,4 @@
-# m
+# Project Incubator
 
 The platform leverages AI to generate project ideas, analyze problem statements, recommend technology stacks, create development roadmaps, and assist with coding, documentation, and viva preparation. It also features team collaboration, milestone tracking, task management, and analytics to help students organize their work and monitor progress.
 
