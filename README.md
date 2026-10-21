@@ -256,75 +256,9 @@ cd frontend
 npm run build
 ```
 
-Test results should be reported from the actual test run rather than assumed in advance.
-
-**College Presentation & Viva Walkthrough**
-
-**1. Dashboard Overview**
-
-- Introduce Project Incubator as a unified platform for student innovation.
-- Demonstrate the project overview, milestone progress, pending tasks, and AI-generated recommendations.
-- Explain how the dashboard consolidates project information into one workspace.
-
-**2. Generate a Project Idea**
-
-- Open the AI Idea Generator.
-- Select a domain such as healthcare, education, or AI/ML.
-- Enter a problem statement, skill level, and preferred technologies.
-- Generate an idea with its objectives, proposed features, and implementation roadmap.
-
-**3. Demonstrate Feasibility Analysis**
-
-- Open the generated project.
-- Display the feasibility assessment and risk analysis.
-- Explain how the system recommends an achievable MVP and identifies potential technical challenges.
-
-**4. Explore Projects & Form a Team**
-
-- Open the Project Explorer.
-- Search and filter sample projects.
-- View a project's requirements and open team roles.
-- Demonstrate a join request or team invitation using the demo environment.
-
-**5. Track Project Development**
-
-- Open the project roadmap.
-- Assign a task to a team member.
-- Update its status and complete a milestone.
-- Return to the dashboard to show the corresponding progress changes.
-
-**6. Demonstrate the AI Development Assistant**
-
-- Ask the assistant to explain a relevant technology.
-- Generate a sample README or viva question set.
-- Explain that the assistant supports development and learning rather than replacing verification and testing.
-
-**7. Present Analytics**
-
-- Display project distribution by domain.
-- Compare completed and pending milestones.
-- Show the task completion rate and explain how the dashboard derives its metrics.
-
-**8. Explain the Architecture**
-
-- Describe the React frontend, FastAPI backend, database layer, and AI service.
-- Show how API requests flow from the interface to backend services.
-- Explain authentication, data validation, and secure handling of AI credentials.
-
-**Documentation**
-
-The project documentation should include:
-
-- **README.md:** Project overview, features, installation, and usage.
-- **DEPLOYMENT.md:** Frontend and backend hosting instructions.
-- **API Documentation:** Endpoint descriptions, request schemas, and example responses.
-- **Database Documentation:** Tables, relationships, constraints, and persistence strategy.
-- **AI Documentation:** Prompt design, output validation, fallback behavior, and limitations.
-- **Testing Guide:** Setup, automated test commands, and expected test coverage.
-
 **Academic Scope & Integrity**
 
-Project Incubator is designed as an Advanced Programming Practices college project demonstrating frontend development, backend API design, database management, AI integration, access control, and collaborative workflows.
+Project Incubator is designed as an Advanced Programming Practices project demonstrating frontend development, backend API design, database management, AI integration, access control, and collaborative workflows.
 
 The platform should clearly distinguish implemented features from planned capabilities and demonstration data. AI-generated evaluations should be treated as advisory, and user information should be protected through appropriate authentication, authorization, input validation, and secure credential management.
 
