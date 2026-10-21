@@ -1,0 +1,6 @@
+{
+  "name": "Project Incubator",
+  "description": "Student innovation ecosystem connecting students across departments to discover teammates, form multidisciplinary teams, participate in hackathons, share ideas, and connect with mentors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
